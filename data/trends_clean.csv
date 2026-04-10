@@ -1,0 +1,88 @@
+post_id,title,category,score,num_comments,author,collected_at
+47718470,Code is run more than read (2023),technology,74,32,facundo_olano,2026-04-10 22:09:37
+47716490,FBI used iPhone notification data to retrieve deleted Signal messages,technology,354,175,01-_-,2026-04-10 22:09:37
+47704804,How NASA built Artemis II’s fault-tolerant computer,technology,536,211,speckx,2026-04-10 22:09:37
+47719486,France to ditch Windows for Linux to reduce reliance on US tech,technology,118,45,Teever,2026-04-10 22:09:37
+47718114,US summons bank bosses over cyber risks from Anthropic's latest AI model,technology,49,23,ascold,2026-04-10 22:09:37
+47717587,OpenAI backs Illinois bill that would limit when AI labs can be held liable,technology,364,257,smurda,2026-04-10 22:09:37
+47708697,"Show HN: QVAC SDK, a universal JavaScript SDK for building local AI applications",technology,23,5,qvac,2026-04-10 22:09:37
+47674950,An AI robot in my home,technology,61,28,kukanani,2026-04-10 22:09:37
+47687273,Git commands I run before reading any code,technology,2260,486,grepsedawk,2026-04-10 22:09:37
+47689550,"LLM plays an 8-bit Commander X16 game using structured ""smart senses""",technology,26,4,russellharper,2026-04-10 22:09:37
+47702196,"Show HN: CSS Studio. Design by hand, code by agent",technology,159,97,SirHound,2026-04-10 22:09:37
+47695666,Show HN: Druids – Build your own software factory,technology,57,12,etherio,2026-04-10 22:09:37
+47700972,Reallocating $100/Month Claude Code Spend to Zed and OpenRouter,technology,337,221,kisamoto,2026-04-10 22:09:37
+47660434,C# in Unity 2026: Writing more modern code,technology,77,99,hacker_13,2026-04-10 22:09:37
+47704285,Clean code in the age of coding agents,technology,57,85,yanis_t,2026-04-10 22:09:37
+47695012,USB for Software Developers: An introduction to writing userspace USB drivers,technology,401,48,WerWolv,2026-04-10 22:09:37
+47708817,Maine is about to become the first state to ban major new data centers,technology,291,413,rmason,2026-04-10 22:09:37
+47679121,Project Glasswing: Securing critical software for the AI era,technology,1525,832,Ryan5453,2026-04-10 22:09:37
+47704881,The Vercel plugin on Claude Code wants to read your prompts,technology,267,109,akshay2603,2026-04-10 22:09:37
+47718458,Tech job relocation market is recovering. The competition is growing faster,technology,39,61,andrewstetsenko,2026-04-10 22:09:37
+47718763,Nearly half of US data centers planned for 2026 canceled or delayed,technology,7,0,vrganj,2026-04-10 22:09:37
+47704443,Study found that young adults have grown less hopeful and more angry about AI,technology,131,176,elsewhen,2026-04-10 22:09:37
+47689174,MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU,technology,324,56,chrsw,2026-04-10 22:09:37
+47715291,Scientists invented a fake disease. AI told people it was real,technology,83,86,latexr,2026-04-10 22:09:37
+47717514,"Inflation Rose to 3.3% in March, Driven by Rising Fuel Costs",worldnews,21,0,JumpCrisscross,2026-04-10 22:09:37
+47665890,War on Raze,worldnews,25,15,tosh,2026-04-10 22:09:37
+47711623,Mexico's President Sheinbaum Decrees Universal Healthcare for 120M,worldnews,54,26,testing22321,2026-04-10 22:09:37
+47710919,How the Trivy supply chain attack harvested credentials from secrets managers,worldnews,18,15,Rial_Labs,2026-04-10 22:09:37
+47660954,German police name alleged leaders of GandCrab and REvil ransomware groups,worldnews,323,160,Bender,2026-04-10 22:09:37
+47662945,Show HN: GovAuctions lets you browse government auctions at once,worldnews,318,90,player_piano,2026-04-10 22:09:37
+47708320,UK says Russia ran submarine operation over cables and pipelines,worldnews,13,0,breve,2026-04-10 22:09:37
+47709535,Lethal conflict after group fission in wild chimpanzees,worldnews,8,1,impish9208,2026-04-10 22:09:37
+47702861,Encrypted Client Hello: How it was blocked in Russia and next steps,worldnews,23,6,grittygrease,2026-04-10 22:09:37
+47715161,France Launches Government Linux Desktop Plan as Windows Exit Begins,worldnews,6,1,doener,2026-04-10 22:09:37
+47697679,I built a tool to let you export your X bookmarks and categorize them,worldnews,16,8,xarchive,2026-04-10 22:09:37
+47677952,The Blueprint of a North Korean Attack on Open-Source,worldnews,32,12,brene,2026-04-10 22:09:37
+47709123,How Iran's Information War Machine Operates Online,worldnews,6,0,mikhael,2026-04-10 22:09:37
+47712641,White House Warns Staff Not to Place Bets on Prediction Markets Amid Iran War,worldnews,11,3,bookofjoe,2026-04-10 22:09:37
+47691108,Wildlife Conservation Police Are Searching Flock Cameras for ICE,worldnews,21,2,lschueller,2026-04-10 22:09:37
+47710595,The Iran war depleted US weapons. Rebuilding will require China's cooperation,worldnews,11,1,n1b0m,2026-04-10 22:09:37
+47712749,xAI sues Colorado over first state AI anti-discrimination law,worldnews,6,2,rmason,2026-04-10 22:09:37
+47692291,"Digital Hopes, Real Power: How the Arab Spring Fueled a Global Surveillance Boom",worldnews,12,0,hn_acker,2026-04-10 22:09:37
+47709251,Netflix Prices Went Up Again – I Bought a DVD Player Instead,sports,238,262,speckx,2026-04-10 22:09:37
+47660766,Exposing and Understanding Scrolling Transfer Functions (2012) [pdf],sports,18,0,t23414321,2026-04-10 22:09:37
+47661065,"The team behind a pro-Iran, Lego-themed viral-video campaign",sports,166,264,tantalor,2026-04-10 22:09:37
+47672778,Breaking the console: a brief history of video game security,sports,96,26,sprado,2026-04-10 22:09:37
+47664186,"Battle for Wesnoth: open-source, turn-based strategy game",sports,541,163,akyuu,2026-04-10 22:09:37
+47656501,The 1987 game “The Last Ninja” was 40 kilobytes,sports,308,192,keepamovin,2026-04-10 22:09:37
+47698082,Newly created Polymarket accounts win big on well-timed Iran ceasefire bets,sports,164,139,mitchbob,2026-04-10 22:09:37
+47707269,What game engines know about data that databases forgot,sports,86,56,speckx,2026-04-10 22:09:37
+47655058,OpenAI's fall from grace as investors race to Anthropic,sports,217,151,1vuio0pswjnm7,2026-04-10 22:09:37
+47712179,Volcanic rock formula cuts cement emissions by two-thirds,sports,5,0,geox,2026-04-10 22:09:37
+47713495,A new trick brings stability to quantum operations,science,198,47,joko42,2026-04-10 22:09:37
+47708818,Native Instant Space Switching on macOS,science,592,288,PaulHoule,2026-04-10 22:09:37
+47651764,How Close Is Too Close? Applying Fluid Dynamics Research Methods to PC Cooling,science,29,7,LabsLucas,2026-04-10 22:09:37
+47712771,"Google's AI Overviews spew false answers per hour, bombshell study reveals",science,22,7,1vuio0pswjnm7,2026-04-10 22:09:37
+47681274,Bitcoin and quantum computing,science,168,136,nehan,2026-04-10 22:09:37
+47676557,Moving fast in hardware: lessons from lab to $100M ARR,science,114,26,rryan,2026-04-10 22:09:37
+47662234,A cryptography engineer's perspective on quantum computing timelines,science,546,248,thadt,2026-04-10 22:09:37
+47650502,Computational Physics (2nd Edition) (2025),science,184,23,teleforce,2026-04-10 22:09:37
+47655466,Employers use your personal data to figure out the lowest salary you'll accept,science,460,294,thisislife2,2026-04-10 22:09:37
+47665207,SOM: A minimal Smalltalk for teaching of and research on Virtual Machines,science,56,0,tosh,2026-04-10 22:09:37
+47682500,USCIS.gov sends user/visitor data to Meta and Google,science,16,1,sricola,2026-04-10 22:09:37
+47708607,Cryptographers place $5k bet whether quantum will matter,science,6,1,Bender,2026-04-10 22:09:37
+47696336,Show HN: I built a local data lake for AI powered data engineering and analytics,science,12,8,vpfaiz,2026-04-10 22:09:37
+47705383,CDC delays publishing report showing Covid vaccine benefits,science,20,2,ceejayoz,2026-04-10 22:09:37
+47672642,Iran threatens OpenAI's Stargate data center in Abu Dhabi,science,65,1,marksully,2026-04-10 22:09:37
+47678844,Show HN: Marimo pair – Reactive Python notebooks as environments for agents,entertainment,88,21,manzt,2026-04-10 22:09:37
+47715339,Show HN: Keeper – embedded secret store for Go (help me break it),entertainment,52,28,babawere,2026-04-10 22:09:37
+47705413,Show HN: I built a Cargo-like build tool for C/C++,entertainment,160,146,randerson_112,2026-04-10 22:09:37
+47710835,"Show HN: Rust based eBook library for Python, with MIT license",entertainment,29,3,larry-the-agent,2026-04-10 22:09:37
+47663743,"Show HN: Moon simulator game, ray-casting",entertainment,107,24,JKCalhoun,2026-04-10 22:09:37
+47704259,"Show HN: Guruka.com – free guided mediations. No signup, private, works offline",entertainment,30,10,eummm,2026-04-10 22:09:37
+47694036,Show HN: Orange Juice – Small UX improvements that make HN easier to read,entertainment,139,157,latchkey,2026-04-10 22:09:37
+47702791,Show HN: 41 years sea surface temperature anomalies,entertainment,145,68,willmeyers,2026-04-10 22:09:37
+47705802,Show HN: Mdpdf a 2k line C CLI to convert Markdown to tiny PDFs,entertainment,10,4,bastscho,2026-04-10 22:09:37
+47666398,Show HN: A (marginally) useful x86-64 ELF executable in 301 bytes,entertainment,64,19,meribold,2026-04-10 22:09:37
+47696562,Show HN: Is Hormuz open yet?,entertainment,467,204,anonfunction,2026-04-10 22:09:37
+47689165,"Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS",entertainment,114,36,pruz,2026-04-10 22:09:37
+47673360,Show HN: Brutalist Concrete Laptop Stand (2024),entertainment,783,235,sam-bee,2026-04-10 22:09:37
+47674606,Show HN: Unicode Steganography,entertainment,55,13,PatrickVuscan,2026-04-10 22:09:37
+47657204,Show HN: We built a camera only robot vacuum for less than $300 (well almost),entertainment,107,55,indraneelpatil,2026-04-10 22:09:37
+47690797,Show HN: Go-Bt: Minimalist Behavior Trees for Go,entertainment,61,12,rvitorper,2026-04-10 22:09:37
+47710713,"Show HN: Linear RNN/Reservoir hybrid generative model, one C file (no deps.)",entertainment,7,2,adinhitlore,2026-04-10 22:09:37
+47692661,Show HN: TUI-use: Let AI agents control interactive terminal programs,entertainment,52,37,dreamsome,2026-04-10 22:09:37
+47661038,Show HN: I built a navigation app that displays weather along the route,entertainment,55,25,vkatluri,2026-04-10 22:09:37
+47689319,Show HN: Skrun – Deploy any agent skill as an API,entertainment,60,12,frizull,2026-04-10 22:09:37
